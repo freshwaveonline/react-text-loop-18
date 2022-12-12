@@ -1,5 +1,5 @@
 {
-  "name": "react-text-loop-18",
+  "name": "@freshwaveonline/react-fade-text-loop"
   "version": "0.0.4",
   "description": "Create an animated loop of a list of text for your headings",
   "main": "./dist/cjs/index.js",
@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freshwaveonline/react-text-loop-18.git"
+    "url": "git+https://github.com/freshwaveonline/react-fade-text-loop.git"
   },
   "files": [
     "dist"
@@ -53,7 +53,7 @@
   "authors": [
     {
       "name": "Samar Mohan",
-      "email": "samar.mohan@gmail.com",
+      "email": "samar.mohan@gmail.com"
     },
     {
       "name": "Fresh Wave",
@@ -63,9 +63,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/freshwaveonline/react-text-loop-18/issues"
+    "url": "https://github.com/freshwaveonline/react-fade-text-loop/issues"
   },
-  "homepage": "https://github.com/freshwaveonline/react-text-loop-18#readme",
+  "homepage": "https://github.com/freshwaveonline/react-fade-text-loop#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
