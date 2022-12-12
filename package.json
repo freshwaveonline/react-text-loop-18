@@ -1,6 +1,6 @@
 {
-  "name": "react-text-loop-next",
-  "version": "0.0.3",
+  "name": "react-text-loop-18",
+  "version": "0.0.4",
   "description": "Create an animated loop of a list of text for your headings",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samarmohan/react-text-loop-next.git"
+    "url": "git+https://github.com/freshwaveonline/react-text-loop-18.git"
   },
   "files": [
     "dist"
@@ -50,12 +50,22 @@
     "react",
     "motion"
   ],
-  "author": "Samar Mohan <samar.mohan@gmail.com>",
+  "authors": [
+    {
+      "name": "Samar Mohan",
+      "email": "samar.mohan@gmail.com",
+    },
+    {
+      "name": "Fresh Wave",
+      "email": "mail@freshwave.online",
+      "url": "https://freshwave.online"
+    }
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/samarmohan/react-text-loop-next/issues"
+    "url": "https://github.com/freshwaveonline/react-text-loop-18/issues"
   },
-  "homepage": "https://github.com/samarmohan/react-text-loop-next#readme",
+  "homepage": "https://github.com/freshwaveonline/react-text-loop-18#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
@@ -95,6 +105,5 @@
   "dependencies": {
     "cxs": "^6.2.0",
     "react-motion": "^0.5.2"
-  },
-  "packageManager": "yarn@3.2.3"
+  }
 }
